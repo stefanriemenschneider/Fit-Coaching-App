@@ -1,0 +1,20 @@
+{
+  "name": "Fit Coaching — Daily Mindset",
+  "short_name": "Daily Mindset",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#F7931A",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

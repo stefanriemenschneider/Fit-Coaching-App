@@ -1,0 +1,1886 @@
+[
+  {
+    "date": "2026-02-21",
+    "title": "Sonnenuntergang am Palmenstrand",
+    "quote": "Disziplin ist die stille Entscheidung, heute stärker zu sein als gestern.",
+    "image": "assets/day01.jpg"
+  },
+  {
+    "date": "2026-02-22",
+    "title": "Nebel über einem Berggipfel",
+    "quote": "Klarheit entsteht nicht im Lärm – sondern im Aufstieg.",
+    "image": "assets/day02.jpg"
+  },
+  {
+    "date": "2026-02-23",
+    "title": "Skyline bei Sonnenaufgang",
+    "quote": "Während andere schlafen, baut jemand sein Morgen.",
+    "image": "assets/day03.jpg"
+  },
+  {
+    "date": "2026-02-24",
+    "title": "Endlose Wüstenlandschaft",
+    "quote": "Weite entsteht im Kopf, bevor sie im Leben sichtbar wird.",
+    "image": "assets/day04.jpg"
+  },
+  {
+    "date": "2026-02-25",
+    "title": "Ruhiger See im Morgengrauen",
+    "quote": "Innere Ruhe ist die stärkste Form von Kontrolle.",
+    "image": "assets/day05.jpg"
+  },
+  {
+    "date": "2026-02-26",
+    "title": "Klippen am Meer",
+    "quote": "Stärke wächst dort, wo Widerstand herrscht.",
+    "image": "assets/day06.jpg"
+  },
+  {
+    "date": "2026-02-27",
+    "title": "Wald mit Lichtstrahlen",
+    "quote": "Konsequenz ist stärker als Motivation.",
+    "image": "assets/day07.jpg"
+  },
+  {
+    "date": "2026-02-28",
+    "title": "Moderne Stadt bei Nacht",
+    "quote": "Erfolg ist kein Zufall. Er ist Wiederholung.",
+    "image": "assets/day08.jpg"
+  },
+  {
+    "date": "2026-03-01",
+    "title": "Schneebedeckter Gipfel",
+    "quote": "Höhen erreicht man nicht mit Ausreden.",
+    "image": "assets/day09.jpg"
+  },
+  {
+    "date": "2026-03-02",
+    "title": "Tropischer Strand",
+    "quote": "Du wirst nicht belohnt für Wünsche – sondern für Taten.",
+    "image": "assets/day10.jpg"
+  },
+  {
+    "date": "2026-03-03",
+    "title": "Alpenpanorama",
+    "quote": "Wer trägt, wächst.",
+    "image": "assets/day11.jpg"
+  },
+  {
+    "date": "2026-03-04",
+    "title": "Alte Kopfsteinpflaster-Gasse",
+    "quote": "Charakter entsteht im Stillen.",
+    "image": "assets/day12.jpg"
+  },
+  {
+    "date": "2026-03-05",
+    "title": "Sonnenaufgang über Wolken",
+    "quote": "Geduld ist die Kraft der Reifen.",
+    "image": "assets/day13.jpg"
+  },
+  {
+    "date": "2026-03-06",
+    "title": "Felsiger Küstenweg",
+    "quote": "Der Weg formt den Menschen.",
+    "image": "assets/day14.jpg"
+  },
+  {
+    "date": "2026-03-07",
+    "title": "Weites Lavendelfeld",
+    "quote": "Wer sich selbst führt, braucht keinen Applaus.",
+    "image": "assets/day15.jpg"
+  },
+  {
+    "date": "2026-03-08",
+    "title": "Metropole von oben",
+    "quote": "Groß denken ist kein Größenwahn.",
+    "image": "assets/day16.jpg"
+  },
+  {
+    "date": "2026-03-09",
+    "title": "Wasserfall im Dschungel",
+    "quote": "Konstanz schlägt Intensität.",
+    "image": "assets/day17.jpg"
+  },
+  {
+    "date": "2026-03-10",
+    "title": "Wellen brechen an Felsen",
+    "quote": "Druck formt Diamanten – und Menschen.",
+    "image": "assets/day18.jpg"
+  },
+  {
+    "date": "2026-03-11",
+    "title": "Sonnenuntergang in der Savanne",
+    "quote": "Ruhe ist Macht.",
+    "image": "assets/day19.jpg"
+  },
+  {
+    "date": "2026-03-12",
+    "title": "Holzsteg ins Meer",
+    "quote": "Der erste Schritt ist leise – aber entscheidend.",
+    "image": "assets/day20.jpg"
+  },
+  {
+    "date": "2026-03-13",
+    "title": "Bergstraße mit Serpentinen",
+    "quote": "Jede Kurve fordert dich.",
+    "image": "assets/day21.jpg"
+  },
+  {
+    "date": "2026-03-14",
+    "title": "Wüsten-Sonnenuntergang",
+    "quote": "Entschlossenheit kennt keine Komfortzone.",
+    "image": "assets/day22.jpg"
+  },
+  {
+    "date": "2026-03-15",
+    "title": "Schneewald",
+    "quote": "Stärke braucht keine Bühne.",
+    "image": "assets/day23.jpg"
+  },
+  {
+    "date": "2026-03-16",
+    "title": "Küstenleuchtturm",
+    "quote": "Werde dein eigenes Licht.",
+    "image": "assets/day24.jpg"
+  },
+  {
+    "date": "2026-03-17",
+    "title": "See in den Bergen",
+    "quote": "Tiefe schlägt Lautstärke.",
+    "image": "assets/day25.jpg"
+  },
+  {
+    "date": "2026-03-18",
+    "title": "Skyline im Regen",
+    "quote": "Du trainierst nicht für den guten Tag.",
+    "image": "assets/day26.jpg"
+  },
+  {
+    "date": "2026-03-19",
+    "title": "Sonnenaufgang im Gebirge",
+    "quote": "Wachstum ist unbequem.",
+    "image": "assets/day27.jpg"
+  },
+  {
+    "date": "2026-03-20",
+    "title": "Tropische Bucht",
+    "quote": "Selbstvertrauen ist trainierbar.",
+    "image": "assets/day28.jpg"
+  },
+  {
+    "date": "2026-03-21",
+    "title": "Endlose Straße",
+    "quote": "Geh weiter.",
+    "image": "assets/day29.jpg"
+  },
+  {
+    "date": "2026-03-22",
+    "title": "Goldene Felder",
+    "quote": "Geduld multipliziert Ergebnisse.",
+    "image": "assets/day30.jpg"
+  },
+  {
+    "date": "2026-03-23",
+    "title": "Wolkenkratzer im Morgenlicht",
+    "quote": "Denke langfristig.",
+    "image": "assets/day31.jpg"
+  },
+  {
+    "date": "2026-03-24",
+    "title": "Steilküste",
+    "quote": "Stabilität entsteht durch Wiederholung.",
+    "image": "assets/day32.jpg"
+  },
+  {
+    "date": "2026-03-25",
+    "title": "Wellen im Gegenlicht",
+    "quote": "Dein Körper folgt deinem Denken.",
+    "image": "assets/day33.jpg"
+  },
+  {
+    "date": "2026-03-26",
+    "title": "Alte Burg im Nebel",
+    "quote": "Standhaftigkeit ist eine Entscheidung.",
+    "image": "assets/day34.jpg"
+  },
+  {
+    "date": "2026-03-27",
+    "title": "Wasseroberfläche im Sonnenlicht",
+    "quote": "Reflexion schafft Fortschritt.",
+    "image": "assets/day35.jpg"
+  },
+  {
+    "date": "2026-03-28",
+    "title": "Weite Steppe",
+    "quote": "Weite beginnt im Inneren.",
+    "image": "assets/day36.jpg"
+  },
+  {
+    "date": "2026-03-29",
+    "title": "Küstenstraße",
+    "quote": "Heute zählt.",
+    "image": "assets/day37.jpg"
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Sonnenuntergang über der Stadt",
+    "quote": "Ausdauer ist Überlegenheit.",
+    "image": "assets/day38.jpg"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "Gletscherlandschaft",
+    "quote": "Langsam ist nicht schwach.",
+    "image": "assets/day39.jpg"
+  },
+  {
+    "date": "2026-04-01",
+    "title": "Palmen im Abendlicht",
+    "quote": "Erfolg ist still.",
+    "image": "assets/day40.jpg"
+  },
+  {
+    "date": "2026-04-02",
+    "title": "Sonnenaufgang über dem Meer",
+    "quote": "Neuanfang ist kein Zufall.",
+    "image": "assets/day41.jpg"
+  },
+  {
+    "date": "2026-04-03",
+    "title": "Felsformation im Ozean",
+    "quote": "Beständigkeit formt.",
+    "image": "assets/day42.jpg"
+  },
+  {
+    "date": "2026-04-04",
+    "title": "Alte Brücke",
+    "quote": "Baue dich jeden Tag neu.",
+    "image": "assets/day43.jpg"
+  },
+  {
+    "date": "2026-04-05",
+    "title": "Tropischer Wasserfall",
+    "quote": "Bewegung ist Leben.",
+    "image": "assets/day44.jpg"
+  },
+  {
+    "date": "2026-04-06",
+    "title": "Gipfelkreuz im Morgenlicht",
+    "quote": "Der Weg lohnt sich.",
+    "image": "assets/day45.jpg"
+  },
+  {
+    "date": "2026-04-07",
+    "title": "Abendhimmel über Bergen",
+    "quote": "Stärke ist leise.",
+    "image": "assets/day46.jpg"
+  },
+  {
+    "date": "2026-04-08",
+    "title": "Weites Meer",
+    "quote": "Grenzen sind Trainingszustände.",
+    "image": "assets/day47.jpg"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "Sonnenuntergang im Canyon",
+    "quote": "Wachse oder warte.",
+    "image": "assets/day48.jpg"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Dschungelpfad",
+    "quote": "Handle bewusst.",
+    "image": "assets/day49.jpg"
+  },
+  {
+    "date": "2026-04-11",
+    "title": "Goldener Strand bei Sonnenuntergang",
+    "quote": "Du bist stärker, als du glaubst.",
+    "image": "assets/day50.jpg"
+  },
+  {
+    "date": "2026-04-12",
+    "title": "Sonnenuntergang am Palmenstrand",
+    "quote": "Konstanz schlägt Motivation.",
+    "image": "assets/day01.jpg"
+  },
+  {
+    "date": "2026-04-13",
+    "title": "Nebel über einem Berggipfel",
+    "quote": "Wer im Kleinen gewinnt, gewinnt am Ende groß.",
+    "image": "assets/day02.jpg"
+  },
+  {
+    "date": "2026-04-14",
+    "title": "Skyline bei Sonnenaufgang",
+    "quote": "Nicht ein perfekter Tag zählt, sondern deine Entscheidung.",
+    "image": "assets/day03.jpg"
+  },
+  {
+    "date": "2026-04-15",
+    "title": "Endlose Wüstenlandschaft",
+    "quote": "Prozess gewinnt gegen Perfektion.",
+    "image": "assets/day04.jpg"
+  },
+  {
+    "date": "2026-04-16",
+    "title": "Ruhiger See im Morgengrauen",
+    "quote": "Nicht ein perfekter Plan bringt dich nach vorn, sondern deine Umsetzung.",
+    "image": "assets/day05.jpg"
+  },
+  {
+    "date": "2026-04-17",
+    "title": "Klippen am Meer",
+    "quote": "Wer die Basics liebt, braucht keine Tricks.",
+    "image": "assets/day06.jpg"
+  },
+  {
+    "date": "2026-04-18",
+    "title": "Wald mit Lichtstrahlen",
+    "quote": "Richtung ist stärker als Tempo.",
+    "image": "assets/day07.jpg"
+  },
+  {
+    "date": "2026-04-19",
+    "title": "Moderne Stadt bei Nacht",
+    "quote": "Mach es heute leicht genug, dass du es morgen wieder tust.",
+    "image": "assets/day08.jpg"
+  },
+  {
+    "date": "2026-04-20",
+    "title": "Schneebedeckter Gipfel",
+    "quote": "Technik hält länger als Ego.",
+    "image": "assets/day09.jpg"
+  },
+  {
+    "date": "2026-04-21",
+    "title": "Tropischer Strand",
+    "quote": "Wer sein Wort hält, braucht keine Motivation.",
+    "image": "assets/day10.jpg"
+  },
+  {
+    "date": "2026-04-22",
+    "title": "Alpenpanorama",
+    "quote": "Nicht Talent macht den Unterschied, sondern deine Wiederholung.",
+    "image": "assets/day11.jpg"
+  },
+  {
+    "date": "2026-04-23",
+    "title": "Alte Kopfsteinpflaster-Gasse",
+    "quote": "Geduld ist leiser als Hektik – und wirksamer.",
+    "image": "assets/day12.jpg"
+  },
+  {
+    "date": "2026-04-24",
+    "title": "Sonnenaufgang über Wolken",
+    "quote": "Nicht Glück formt dich, sondern deine Konsequenz.",
+    "image": "assets/day13.jpg"
+  },
+  {
+    "date": "2026-04-25",
+    "title": "Felsiger Küstenweg",
+    "quote": "Wer sich selbst führt, wird nicht herumgeführt.",
+    "image": "assets/day14.jpg"
+  },
+  {
+    "date": "2026-04-26",
+    "title": "Weites Lavendelfeld",
+    "quote": "Wiederholung schlägt Genialität.",
+    "image": "assets/day15.jpg"
+  },
+  {
+    "date": "2026-04-27",
+    "title": "Metropole von oben",
+    "quote": "Ein ruhiger Kopf ist ein starker Muskel.",
+    "image": "assets/day16.jpg"
+  },
+  {
+    "date": "2026-04-28",
+    "title": "Wasserfall im Dschungel",
+    "quote": "Schlaf gewinnt gegen Stimulanz.",
+    "image": "assets/day17.jpg"
+  },
+  {
+    "date": "2026-04-29",
+    "title": "Wellen brechen an Felsen",
+    "quote": "Wer ruhig bleibt, sieht den Weg klarer.",
+    "image": "assets/day18.jpg"
+  },
+  {
+    "date": "2026-04-30",
+    "title": "Sonnenuntergang in der Savanne",
+    "quote": "Nicht der richtige Moment trägt dich, sondern der nächste Schritt.",
+    "image": "assets/day19.jpg"
+  },
+  {
+    "date": "2026-05-01",
+    "title": "Holzsteg ins Meer",
+    "quote": "Klarheit ist stärker als Chaos.",
+    "image": "assets/day20.jpg"
+  },
+  {
+    "date": "2026-05-02",
+    "title": "Bergstraße mit Serpentinen",
+    "quote": "Nicht große Worte zählt, sondern kleine Taten.",
+    "image": "assets/day21.jpg"
+  },
+  {
+    "date": "2026-05-03",
+    "title": "Wüsten-Sonnenuntergang",
+    "quote": "Wer Geduld trainiert, trainiert auch Stärke.",
+    "image": "assets/day22.jpg"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "Schneewald",
+    "quote": "Atmung hält länger als Stress.",
+    "image": "assets/day23.jpg"
+  },
+  {
+    "date": "2026-05-05",
+    "title": "Küstenleuchtturm",
+    "quote": "Die Welt belohnt Wiederholung, nicht Wunschlisten.",
+    "image": "assets/day24.jpg"
+  },
+  {
+    "date": "2026-05-06",
+    "title": "See in den Bergen",
+    "quote": "Haltung ist leiser als Laune – und wirksamer.",
+    "image": "assets/day25.jpg"
+  },
+  {
+    "date": "2026-05-07",
+    "title": "Skyline im Regen",
+    "quote": "Wer sauber arbeitet, baut Vertrauen in sich.",
+    "image": "assets/day26.jpg"
+  },
+  {
+    "date": "2026-05-08",
+    "title": "Sonnenaufgang im Gebirge",
+    "quote": "Nicht der schnelle Kick bringt dich nach vorn, sondern deine Routine.",
+    "image": "assets/day27.jpg"
+  },
+  {
+    "date": "2026-05-09",
+    "title": "Tropische Bucht",
+    "quote": "Plan schlägt Zufall.",
+    "image": "assets/day28.jpg"
+  },
+  {
+    "date": "2026-05-10",
+    "title": "Endlose Straße",
+    "quote": "Nicht mehr Gewicht macht den Unterschied, sondern saubere Technik.",
+    "image": "assets/day29.jpg"
+  },
+  {
+    "date": "2026-05-11",
+    "title": "Goldene Felder",
+    "quote": "Wer Schlaf respektiert, respektiert seinen Körper.",
+    "image": "assets/day30.jpg"
+  },
+  {
+    "date": "2026-05-12",
+    "title": "Wolkenkratzer im Morgenlicht",
+    "quote": "Ruhe gewinnt gegen Überreaktion.",
+    "image": "assets/day31.jpg"
+  },
+  {
+    "date": "2026-05-13",
+    "title": "Steilküste",
+    "quote": "Du musst nicht schneller werden. Du musst stabiler werden.",
+    "image": "assets/day32.jpg"
+  },
+  {
+    "date": "2026-05-14",
+    "title": "Wellen im Gegenlicht",
+    "quote": "Selbstführung ist stärker als Fremdbestätigung.",
+    "image": "assets/day33.jpg"
+  },
+  {
+    "date": "2026-05-15",
+    "title": "Alte Burg im Nebel",
+    "quote": "Wer auf Technik achtet, bleibt langfristig verletzungsfrei.",
+    "image": "assets/day34.jpg"
+  },
+  {
+    "date": "2026-05-16",
+    "title": "Wasseroberfläche im Sonnenlicht",
+    "quote": "Nicht mehr Härte formt dich, sondern mehr Klarheit.",
+    "image": "assets/day35.jpg"
+  },
+  {
+    "date": "2026-05-17",
+    "title": "Weite Steppe",
+    "quote": "Ehrlichkeit hält länger als Ausreden.",
+    "image": "assets/day36.jpg"
+  },
+  {
+    "date": "2026-05-18",
+    "title": "Küstenstraße",
+    "quote": "Nicht Druck von außen trägt dich, sondern deine innere Führung.",
+    "image": "assets/day37.jpg"
+  },
+  {
+    "date": "2026-05-19",
+    "title": "Sonnenuntergang über der Stadt",
+    "quote": "Wer seine Grenzen kennt, kann sie ehrlich verschieben.",
+    "image": "assets/day38.jpg"
+  },
+  {
+    "date": "2026-05-20",
+    "title": "Gletscherlandschaft",
+    "quote": "Disziplin ist leiser als Ausflüchte – und wirksamer.",
+    "image": "assets/day39.jpg"
+  },
+  {
+    "date": "2026-05-21",
+    "title": "Palmen im Abendlicht",
+    "quote": "Trainiere das, was du vermeiden willst.",
+    "image": "assets/day40.jpg"
+  },
+  {
+    "date": "2026-05-22",
+    "title": "Sonnenaufgang über dem Meer",
+    "quote": "Demut schlägt Arroganz.",
+    "image": "assets/day41.jpg"
+  },
+  {
+    "date": "2026-05-23",
+    "title": "Felsformation im Ozean",
+    "quote": "Wer sich nicht vergleicht, bleibt frei.",
+    "image": "assets/day42.jpg"
+  },
+  {
+    "date": "2026-05-24",
+    "title": "Alte Brücke",
+    "quote": "Nicht Wissen zählt, sondern Tun.",
+    "image": "assets/day43.jpg"
+  },
+  {
+    "date": "2026-05-25",
+    "title": "Tropischer Wasserfall",
+    "quote": "Qualität gewinnt gegen Quantität.",
+    "image": "assets/day44.jpg"
+  },
+  {
+    "date": "2026-05-26",
+    "title": "Gipfelkreuz im Morgenlicht",
+    "quote": "Nicht Motivation bringt dich nach vorn, sondern Gewohnheit.",
+    "image": "assets/day45.jpg"
+  },
+  {
+    "date": "2026-05-27",
+    "title": "Abendhimmel über Bergen",
+    "quote": "Wer dranbleibt, wenn es langweilig wird, wird gefährlich gut.",
+    "image": "assets/day46.jpg"
+  },
+  {
+    "date": "2026-05-28",
+    "title": "Weites Meer",
+    "quote": "Tiefe ist stärker als Lärm.",
+    "image": "assets/day47.jpg"
+  },
+  {
+    "date": "2026-05-29",
+    "title": "Sonnenuntergang im Canyon",
+    "quote": "Wenn es einfach wäre, wäre es nicht deins.",
+    "image": "assets/day48.jpg"
+  },
+  {
+    "date": "2026-05-30",
+    "title": "Dschungelpfad",
+    "quote": "Fokus hält länger als Ablenkung.",
+    "image": "assets/day49.jpg"
+  },
+  {
+    "date": "2026-05-31",
+    "title": "Goldener Strand bei Sonnenuntergang",
+    "quote": "Wer sich nach Rückschlägen sammelt, wird stabil.",
+    "image": "assets/day50.jpg"
+  },
+  {
+    "date": "2026-06-01",
+    "title": "Sonnenuntergang am Palmenstrand",
+    "quote": "Nicht Intensität macht den Unterschied, sondern Regeneration.",
+    "image": "assets/day01.jpg"
+  },
+  {
+    "date": "2026-06-02",
+    "title": "Nebel über einem Berggipfel",
+    "quote": "Regeneration ist leiser als Übertraining – und wirksamer.",
+    "image": "assets/day02.jpg"
+  },
+  {
+    "date": "2026-06-03",
+    "title": "Skyline bei Sonnenaufgang",
+    "quote": "Nicht laut sein formt dich, sondern dranbleiben.",
+    "image": "assets/day03.jpg"
+  },
+  {
+    "date": "2026-06-04",
+    "title": "Endlose Wüstenlandschaft",
+    "quote": "Wer auf Regeneration hört, wächst schneller.",
+    "image": "assets/day04.jpg"
+  },
+  {
+    "date": "2026-06-05",
+    "title": "Ruhiger See im Morgengrauen",
+    "quote": "Beständigkeit schlägt Hype.",
+    "image": "assets/day05.jpg"
+  },
+  {
+    "date": "2026-06-06",
+    "title": "Klippen am Meer",
+    "quote": "Halte den Standard – nicht die Stimmung.",
+    "image": "assets/day06.jpg"
+  },
+  {
+    "date": "2026-06-07",
+    "title": "Wald mit Lichtstrahlen",
+    "quote": "Mut gewinnt gegen Bequemlichkeit.",
+    "image": "assets/day07.jpg"
+  },
+  {
+    "date": "2026-06-08",
+    "title": "Moderne Stadt bei Nacht",
+    "quote": "Wer zuerst Ordnung schafft, hat später Freiheit.",
+    "image": "assets/day08.jpg"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "Schneebedeckter Gipfel",
+    "quote": "Nicht Perfektion trägt dich, sondern Fortschritt.",
+    "image": "assets/day09.jpg"
+  },
+  {
+    "date": "2026-06-10",
+    "title": "Tropischer Strand",
+    "quote": "Integrität ist stärker als Abkürzungen.",
+    "image": "assets/day10.jpg"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Alpenpanorama",
+    "quote": "Nicht der Vergleich zählt, sondern dein Prozess.",
+    "image": "assets/day11.jpg"
+  },
+  {
+    "date": "2026-06-12",
+    "title": "Alte Kopfsteinpflaster-Gasse",
+    "quote": "Wer den Prozess vertraut, verliert nicht den Kopf.",
+    "image": "assets/day12.jpg"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Sonnenaufgang über Wolken",
+    "quote": "Verantwortung hält länger als Opferrolle.",
+    "image": "assets/day13.jpg"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Felsiger Küstenweg",
+    "quote": "Ergebnisse sind Nebenprodukte guter Gewohnheiten.",
+    "image": "assets/day14.jpg"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "Weites Lavendelfeld",
+    "quote": "Präsenz ist leiser als Sorgen – und wirksamer.",
+    "image": "assets/day15.jpg"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Metropole von oben",
+    "quote": "Wer sein Ego parkt, lernt schneller.",
+    "image": "assets/day16.jpg"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Wasserfall im Dschungel",
+    "quote": "Nicht Kontrolle über alles bringt dich nach vorn, sondern Kontrolle über dich.",
+    "image": "assets/day17.jpg"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Wellen brechen an Felsen",
+    "quote": "Handwerk schlägt Show.",
+    "image": "assets/day18.jpg"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Sonnenuntergang in der Savanne",
+    "quote": "Nicht ein neuer Montag macht den Unterschied, sondern dein neues Verhalten.",
+    "image": "assets/day19.jpg"
+  },
+  {
+    "date": "2026-06-20",
+    "title": "Holzsteg ins Meer",
+    "quote": "Wer jeden Tag etwas tut, braucht keinen perfekten Tag.",
+    "image": "assets/day20.jpg"
+  },
+  {
+    "date": "2026-06-21",
+    "title": "Bergstraße mit Serpentinen",
+    "quote": "Werte gewinnt gegen Stimmung.",
+    "image": "assets/day21.jpg"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Wüsten-Sonnenuntergang",
+    "quote": "Stärke ist oft nur Geduld in Bewegung.",
+    "image": "assets/day22.jpg"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Schneewald",
+    "quote": "Routine ist stärker als Neujahrsvorsätze.",
+    "image": "assets/day23.jpg"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Küstenleuchtturm",
+    "quote": "Wer wieder kommt, gewinnt.",
+    "image": "assets/day24.jpg"
+  },
+  {
+    "date": "2026-06-25",
+    "title": "See in den Bergen",
+    "quote": "Nicht ein großes Ziel formt dich, sondern ein klarer Plan.",
+    "image": "assets/day25.jpg"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Skyline im Regen",
+    "quote": "Langfristigkeit hält länger als Ungeduld.",
+    "image": "assets/day26.jpg"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Sonnenaufgang im Gebirge",
+    "quote": "Nicht ein harter Spruch trägt dich, sondern eine harte Gewohnheit.",
+    "image": "assets/day27.jpg"
+  },
+  {
+    "date": "2026-06-28",
+    "title": "Tropische Bucht",
+    "quote": "Wer aufhört zu verhandeln, beginnt zu handeln.",
+    "image": "assets/day28.jpg"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Endlose Straße",
+    "quote": "Standhaftigkeit ist leiser als Schwankungen – und wirksamer.",
+    "image": "assets/day29.jpg"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Goldene Felder",
+    "quote": "Atme. Entscheide. Handle.",
+    "image": "assets/day30.jpg"
+  },
+  {
+    "date": "2026-07-01",
+    "title": "Wolkenkratzer im Morgenlicht",
+    "quote": "Kraft schlägt Tricks.",
+    "image": "assets/day31.jpg"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Steilküste",
+    "quote": "Wer kleine Versprechen einlöst, kann große Ziele tragen.",
+    "image": "assets/day32.jpg"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Wellen im Gegenlicht",
+    "quote": "Nicht Sprints zählt, sondern deine Ausdauer.",
+    "image": "assets/day33.jpg"
+  },
+  {
+    "date": "2026-07-04",
+    "title": "Alte Burg im Nebel",
+    "quote": "Sauberkeit gewinnt gegen Eile.",
+    "image": "assets/day34.jpg"
+  },
+  {
+    "date": "2026-07-05",
+    "title": "Wasseroberfläche im Sonnenlicht",
+    "quote": "Nicht Selbstkritik bringt dich nach vorn, sondern Selbstrespekt.",
+    "image": "assets/day35.jpg"
+  },
+  {
+    "date": "2026-07-06",
+    "title": "Weite Steppe",
+    "quote": "Wer sich selbst respektiert, isst, trainiert und lebt besser.",
+    "image": "assets/day36.jpg"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "Küstenstraße",
+    "quote": "Einfachheit ist stärker als Drama.",
+    "image": "assets/day37.jpg"
+  },
+  {
+    "date": "2026-07-08",
+    "title": "Sonnenuntergang über der Stadt",
+    "quote": "Jeder Tag ist ein kleiner Vertrag mit dir selbst.",
+    "image": "assets/day38.jpg"
+  },
+  {
+    "date": "2026-07-09",
+    "title": "Gletscherlandschaft",
+    "quote": "Arbeit hält länger als Wunschdenken.",
+    "image": "assets/day39.jpg"
+  },
+  {
+    "date": "2026-07-10",
+    "title": "Palmen im Abendlicht",
+    "quote": "Wer nicht lügt, spart Kraft.",
+    "image": "assets/day40.jpg"
+  },
+  {
+    "date": "2026-07-11",
+    "title": "Sonnenaufgang über dem Meer",
+    "quote": "Nicht mehr Chaos macht den Unterschied, sondern mehr Struktur.",
+    "image": "assets/day41.jpg"
+  },
+  {
+    "date": "2026-07-12",
+    "title": "Felsformation im Ozean",
+    "quote": "Umsetzung ist leiser als Theorie – und wirksamer.",
+    "image": "assets/day42.jpg"
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Alte Brücke",
+    "quote": "Nicht die Laune formt dich, sondern deine Haltung.",
+    "image": "assets/day43.jpg"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "Tropischer Wasserfall",
+    "quote": "Wer Stille aushält, hält auch Druck aus.",
+    "image": "assets/day44.jpg"
+  },
+  {
+    "date": "2026-07-15",
+    "title": "Gipfelkreuz im Morgenlicht",
+    "quote": "Taten schlägt Meinungen.",
+    "image": "assets/day45.jpg"
+  },
+  {
+    "date": "2026-07-16",
+    "title": "Abendhimmel über Bergen",
+    "quote": "Nicht alles, was du fühlst, ist wahr – aber alles fühlt sich wahr an.",
+    "image": "assets/day46.jpg"
+  },
+  {
+    "date": "2026-07-17",
+    "title": "Weites Meer",
+    "quote": "Stille gewinnt gegen Lautstärke.",
+    "image": "assets/day47.jpg"
+  },
+  {
+    "date": "2026-07-18",
+    "title": "Sonnenuntergang im Canyon",
+    "quote": "Wer die Wahrheit wählt, wählt Wachstum.",
+    "image": "assets/day48.jpg"
+  },
+  {
+    "date": "2026-07-19",
+    "title": "Dschungelpfad",
+    "quote": "Nicht Ausreden trägt dich, sondern Verantwortung.",
+    "image": "assets/day49.jpg"
+  },
+  {
+    "date": "2026-07-20",
+    "title": "Goldener Strand bei Sonnenuntergang",
+    "quote": "Disziplin ist stärker als Talent.",
+    "image": "assets/day50.jpg"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Sonnenuntergang am Palmenstrand",
+    "quote": "Nicht Mitleid zählt, sondern Mut.",
+    "image": "assets/day01.jpg"
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Nebel über einem Berggipfel",
+    "quote": "Wer bewusst atmet, bleibt im Körper.",
+    "image": "assets/day02.jpg"
+  },
+  {
+    "date": "2026-07-23",
+    "title": "Skyline bei Sonnenaufgang",
+    "quote": "Ausdauer hält länger als Sprints.",
+    "image": "assets/day03.jpg"
+  },
+  {
+    "date": "2026-07-24",
+    "title": "Endlose Wüstenlandschaft",
+    "quote": "Der Körper folgt dem System, nicht dem Drama.",
+    "image": "assets/day04.jpg"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "Ruhiger See im Morgengrauen",
+    "quote": "Kontinuität ist leiser als Ausnahmen – und wirksamer.",
+    "image": "assets/day05.jpg"
+  },
+  {
+    "date": "2026-07-26",
+    "title": "Klippen am Meer",
+    "quote": "Wer Konstanz wählt, wählt Ergebnisse.",
+    "image": "assets/day06.jpg"
+  },
+  {
+    "date": "2026-07-27",
+    "title": "Wald mit Lichtstrahlen",
+    "quote": "Nicht Wunschdenken bringt dich nach vorn, sondern Arbeit.",
+    "image": "assets/day07.jpg"
+  },
+  {
+    "date": "2026-07-28",
+    "title": "Moderne Stadt bei Nacht",
+    "quote": "Erholung schlägt Selbstüberforderung.",
+    "image": "assets/day08.jpg"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Schneebedeckter Gipfel",
+    "quote": "Nicht Hektik macht den Unterschied, sondern Geduld.",
+    "image": "assets/day09.jpg"
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Tropischer Strand",
+    "quote": "Wer Klarheit sucht, findet Prioritäten.",
+    "image": "assets/day10.jpg"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Alpenpanorama",
+    "quote": "Selbstrespekt gewinnt gegen Selbstmitleid.",
+    "image": "assets/day11.jpg"
+  },
+  {
+    "date": "2026-08-01",
+    "title": "Alte Kopfsteinpflaster-Gasse",
+    "quote": "Arbeite im Stillen. Lass Ergebnisse sprechen.",
+    "image": "assets/day12.jpg"
+  },
+  {
+    "date": "2026-08-02",
+    "title": "Sonnenaufgang über Wolken",
+    "quote": "Zielklarheit ist stärker als Wankelmut.",
+    "image": "assets/day13.jpg"
+  },
+  {
+    "date": "2026-08-03",
+    "title": "Felsiger Küstenweg",
+    "quote": "Wer sein Training dokumentiert, macht Fortschritt sichtbar.",
+    "image": "assets/day14.jpg"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "Weites Lavendelfeld",
+    "quote": "Nicht Überdenken formt dich, sondern Handeln.",
+    "image": "assets/day15.jpg"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "Metropole von oben",
+    "quote": "Entschlossenheit hält länger als Zögern.",
+    "image": "assets/day16.jpg"
+  },
+  {
+    "date": "2026-08-06",
+    "title": "Wasserfall im Dschungel",
+    "quote": "Nicht der Applaus trägt dich, sondern die Arbeit im Stillen.",
+    "image": "assets/day17.jpg"
+  },
+  {
+    "date": "2026-08-07",
+    "title": "Wellen brechen an Felsen",
+    "quote": "Wer langfristig denkt, bleibt ruhig.",
+    "image": "assets/day18.jpg"
+  },
+  {
+    "date": "2026-08-08",
+    "title": "Sonnenuntergang in der Savanne",
+    "quote": "Wahrheit ist leiser als Schönreden – und wirksamer.",
+    "image": "assets/day19.jpg"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "Holzsteg ins Meer",
+    "quote": "Mach Platz: Weniger Ablenkung, mehr Richtung.",
+    "image": "assets/day20.jpg"
+  },
+  {
+    "date": "2026-08-10",
+    "title": "Bergstraße mit Serpentinen",
+    "quote": "Struktur schlägt Chaos.",
+    "image": "assets/day21.jpg"
+  },
+  {
+    "date": "2026-08-11",
+    "title": "Wüsten-Sonnenuntergang",
+    "quote": "Wer das Fundament baut, steht höher.",
+    "image": "assets/day22.jpg"
+  },
+  {
+    "date": "2026-08-12",
+    "title": "Schneewald",
+    "quote": "Nicht Abkürzungen zählt, sondern Basics.",
+    "image": "assets/day23.jpg"
+  },
+  {
+    "date": "2026-08-13",
+    "title": "Küstenleuchtturm",
+    "quote": "Prioritäten gewinnt gegen Zeitdruck.",
+    "image": "assets/day24.jpg"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "See in den Bergen",
+    "quote": "Nicht kompliziert bringt dich nach vorn, sondern konsequent.",
+    "image": "assets/day25.jpg"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "Skyline im Regen",
+    "quote": "Wer weitergeht, wird weiterkommen.",
+    "image": "assets/day26.jpg"
+  },
+  {
+    "date": "2026-08-16",
+    "title": "Sonnenaufgang im Gebirge",
+    "quote": "Geduld ist stärker als Frust.",
+    "image": "assets/day27.jpg"
+  },
+  {
+    "date": "2026-08-17",
+    "title": "Tropische Bucht",
+    "quote": "Langsam ist schnell, wenn du nicht aufhörst.",
+    "image": "assets/day28.jpg"
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Endlose Straße",
+    "quote": "Präzision hält länger als Gewalt.",
+    "image": "assets/day29.jpg"
+  },
+  {
+    "date": "2026-08-19",
+    "title": "Goldene Felder",
+    "quote": "Wer sein Tempo kennt, kommt an.",
+    "image": "assets/day30.jpg"
+  },
+  {
+    "date": "2026-08-20",
+    "title": "Wolkenkratzer im Morgenlicht",
+    "quote": "Nicht ein „Hack“ macht den Unterschied, sondern ein guter Schlaf.",
+    "image": "assets/day31.jpg"
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Steilküste",
+    "quote": "Balance ist leiser als Extrem – und wirksamer.",
+    "image": "assets/day32.jpg"
+  },
+  {
+    "date": "2026-08-22",
+    "title": "Wellen im Gegenlicht",
+    "quote": "Nicht ein Cheatday formt dich, sondern eine gute Woche.",
+    "image": "assets/day33.jpg"
+  },
+  {
+    "date": "2026-08-23",
+    "title": "Alte Burg im Nebel",
+    "quote": "Wer seine Energie schützt, hat mehr Power.",
+    "image": "assets/day34.jpg"
+  },
+  {
+    "date": "2026-08-24",
+    "title": "Wasseroberfläche im Sonnenlicht",
+    "quote": "Grit schlägt Glück.",
+    "image": "assets/day35.jpg"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "Weite Steppe",
+    "quote": "Dein Tempo ist egal. Dein Dranbleiben nicht.",
+    "image": "assets/day36.jpg"
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Küstenstraße",
+    "quote": "Trainingstagebuch gewinnt gegen Bauchgefühl.",
+    "image": "assets/day37.jpg"
+  },
+  {
+    "date": "2026-08-27",
+    "title": "Sonnenuntergang über der Stadt",
+    "quote": "Wer auf Qualität setzt, lebt leichter.",
+    "image": "assets/day38.jpg"
+  },
+  {
+    "date": "2026-08-28",
+    "title": "Gletscherlandschaft",
+    "quote": "Nicht die Waage trägt dich, sondern dein Verhalten.",
+    "image": "assets/day39.jpg"
+  },
+  {
+    "date": "2026-08-29",
+    "title": "Palmen im Abendlicht",
+    "quote": "Schritte ist stärker als Sprünge.",
+    "image": "assets/day40.jpg"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "Sonnenaufgang über dem Meer",
+    "quote": "Nicht ein niedriger Start zählt, sondern ein konsequenter Weg.",
+    "image": "assets/day41.jpg"
+  },
+  {
+    "date": "2026-08-31",
+    "title": "Felsformation im Ozean",
+    "quote": "Wer seinen Kopf trainiert, trainiert doppelt.",
+    "image": "assets/day42.jpg"
+  },
+  {
+    "date": "2026-09-01",
+    "title": "Alte Brücke",
+    "quote": "Schattenarbeit hält länger als Selbstbetrug.",
+    "image": "assets/day43.jpg"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "Tropischer Wasserfall",
+    "quote": "Wer du wirst, entsteht aus dem, was du wiederholst.",
+    "image": "assets/day44.jpg"
+  },
+  {
+    "date": "2026-09-03",
+    "title": "Gipfelkreuz im Morgenlicht",
+    "quote": "Selbstvertrauen ist leiser als Zweifel – und wirksamer.",
+    "image": "assets/day45.jpg"
+  },
+  {
+    "date": "2026-09-04",
+    "title": "Abendhimmel über Bergen",
+    "quote": "Wer die Verantwortung nimmt, gewinnt Freiheit.",
+    "image": "assets/day46.jpg"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "Weites Meer",
+    "quote": "Nicht ein Fehler bringt dich nach vorn, sondern dein Lernen.",
+    "image": "assets/day47.jpg"
+  },
+  {
+    "date": "2026-09-06",
+    "title": "Sonnenuntergang im Canyon",
+    "quote": "Zutrauen schlägt Zögern.",
+    "image": "assets/day48.jpg"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "Dschungelpfad",
+    "quote": "Nicht ein Rückschlag macht den Unterschied, sondern deine Reaktion.",
+    "image": "assets/day49.jpg"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "Goldener Strand bei Sonnenuntergang",
+    "quote": "Wer weniger redet, mehr liefert.",
+    "image": "assets/day50.jpg"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "Sonnenuntergang am Palmenstrand",
+    "quote": "Wachstum gewinnt gegen Komfort.",
+    "image": "assets/day01.jpg"
+  },
+  {
+    "date": "2026-09-10",
+    "title": "Nebel über einem Berggipfel",
+    "quote": "Der nächste Satz reicht. Der nächste Schritt reicht.",
+    "image": "assets/day02.jpg"
+  },
+  {
+    "date": "2026-09-11",
+    "title": "Skyline bei Sonnenaufgang",
+    "quote": "Druck ist stärker als Ausreden.",
+    "image": "assets/day03.jpg"
+  },
+  {
+    "date": "2026-09-12",
+    "title": "Endlose Wüstenlandschaft",
+    "quote": "Wer nicht aufgibt, wenn es schwer wird, wächst am schnellsten.",
+    "image": "assets/day04.jpg"
+  },
+  {
+    "date": "2026-09-13",
+    "title": "Ruhiger See im Morgengrauen",
+    "quote": "Nicht ein guter Coach-Spruch formt dich, sondern deine tägliche Praxis.",
+    "image": "assets/day05.jpg"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "Klippen am Meer",
+    "quote": "Fleiß hält länger als Ausreden.",
+    "image": "assets/day06.jpg"
+  },
+  {
+    "date": "2026-09-15",
+    "title": "Wald mit Lichtstrahlen",
+    "quote": "Nicht ein neuer Plan trägt dich, sondern ein besseres System.",
+    "image": "assets/day07.jpg"
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Moderne Stadt bei Nacht",
+    "quote": "Wer die Komfortzone verlässt, findet echte Stärke.",
+    "image": "assets/day08.jpg"
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Schneebedeckter Gipfel",
+    "quote": "Konsequenz ist leiser als Stimmung – und wirksamer.",
+    "image": "assets/day09.jpg"
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Tropischer Strand",
+    "quote": "Konstanz ist Romantik für Erwachsene.",
+    "image": "assets/day10.jpg"
+  },
+  {
+    "date": "2026-09-19",
+    "title": "Alpenpanorama",
+    "quote": "Anwesenheit schlägt Ablenkung.",
+    "image": "assets/day11.jpg"
+  },
+  {
+    "date": "2026-09-20",
+    "title": "Alte Kopfsteinpflaster-Gasse",
+    "quote": "Wer sich fokussiert, sieht Chancen.",
+    "image": "assets/day12.jpg"
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Sonnenaufgang über Wolken",
+    "quote": "Nicht mehr Druck zählt, sondern mehr Ruhe.",
+    "image": "assets/day13.jpg"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Felsiger Küstenweg",
+    "quote": "Wiederholung gewinnt gegen Ausrede.",
+    "image": "assets/day14.jpg"
+  },
+  {
+    "date": "2026-09-23",
+    "title": "Weites Lavendelfeld",
+    "quote": "Nicht mehr Tempo bringt dich nach vorn, sondern mehr Richtung.",
+    "image": "assets/day15.jpg"
+  },
+  {
+    "date": "2026-09-24",
+    "title": "Metropole von oben",
+    "quote": "Wer Fehler nutzt, wird besser.",
+    "image": "assets/day16.jpg"
+  },
+  {
+    "date": "2026-09-25",
+    "title": "Wasserfall im Dschungel",
+    "quote": "Körpergefühl ist stärker als Ego.",
+    "image": "assets/day17.jpg"
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Wellen brechen an Felsen",
+    "quote": "Du brauchst keine neue Motivation – du brauchst ein neues Morgenritual.",
+    "image": "assets/day18.jpg"
+  },
+  {
+    "date": "2026-09-27",
+    "title": "Sonnenuntergang in der Savanne",
+    "quote": "Technik hält länger als Gewicht.",
+    "image": "assets/day19.jpg"
+  },
+  {
+    "date": "2026-09-28",
+    "title": "Holzsteg ins Meer",
+    "quote": "Wer auf sich hört, bleibt bei sich.",
+    "image": "assets/day20.jpg"
+  },
+  {
+    "date": "2026-09-29",
+    "title": "Bergstraße mit Serpentinen",
+    "quote": "Nicht mehr Perfektion macht den Unterschied, sondern mehr Wiederholung.",
+    "image": "assets/day21.jpg"
+  },
+  {
+    "date": "2026-09-30",
+    "title": "Wüsten-Sonnenuntergang",
+    "quote": "Kontrolle ist leiser als Hektik – und wirksamer.",
+    "image": "assets/day22.jpg"
+  },
+  {
+    "date": "2026-10-01",
+    "title": "Schneewald",
+    "quote": "Nicht ein schlechtes Gefühl formt dich, sondern eine schlechte Entscheidung.",
+    "image": "assets/day23.jpg"
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Küstenleuchtturm",
+    "quote": "Wer sich nicht ablenken lässt, bringt Dinge zu Ende.",
+    "image": "assets/day24.jpg"
+  },
+  {
+    "date": "2026-10-03",
+    "title": "See in den Bergen",
+    "quote": "Sinn schlägt Lärm.",
+    "image": "assets/day25.jpg"
+  },
+  {
+    "date": "2026-10-04",
+    "title": "Skyline im Regen",
+    "quote": "Manchmal ist der stärkste Satz: „Heute trotzdem.“",
+    "image": "assets/day26.jpg"
+  },
+  {
+    "date": "2026-10-05",
+    "title": "Sonnenaufgang im Gebirge",
+    "quote": "Reife gewinnt gegen Eile.",
+    "image": "assets/day27.jpg"
+  },
+  {
+    "date": "2026-10-06",
+    "title": "Tropische Bucht",
+    "quote": "Wer sich erholt, wird stärker.",
+    "image": "assets/day28.jpg"
+  },
+  {
+    "date": "2026-10-07",
+    "title": "Endlose Straße",
+    "quote": "Nicht ein gutes Gefühl trägt dich, sondern eine gute Gewohnheit.",
+    "image": "assets/day29.jpg"
+  },
+  {
+    "date": "2026-10-08",
+    "title": "Goldene Felder",
+    "quote": "Disziplin ist stärker als Begeisterung.",
+    "image": "assets/day30.jpg"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Wolkenkratzer im Morgenlicht",
+    "quote": "Nicht der Stress zählt, sondern deine Atmung.",
+    "image": "assets/day31.jpg"
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Steilküste",
+    "quote": "Wer seinen Schlaf schützt, schützt seine Leistung.",
+    "image": "assets/day32.jpg"
+  },
+  {
+    "date": "2026-10-11",
+    "title": "Wellen im Gegenlicht",
+    "quote": "Regelmäßigkeit hält länger als Perfektionismus.",
+    "image": "assets/day33.jpg"
+  },
+  {
+    "date": "2026-10-12",
+    "title": "Alte Burg im Nebel",
+    "quote": "Ein gutes Leben ist ein gutes Training: simpel, ehrlich, wiederholbar.",
+    "image": "assets/day34.jpg"
+  },
+  {
+    "date": "2026-10-13",
+    "title": "Wasseroberfläche im Sonnenlicht",
+    "quote": "Kernarbeit ist leiser als Nebensachen – und wirksamer.",
+    "image": "assets/day35.jpg"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Weite Steppe",
+    "quote": "Wer konsequent bleibt, wird unaufhaltbar.",
+    "image": "assets/day36.jpg"
+  },
+  {
+    "date": "2026-10-15",
+    "title": "Küstenstraße",
+    "quote": "Nicht die Angst bringt dich nach vorn, sondern dein Mut.",
+    "image": "assets/day37.jpg"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Sonnenuntergang über der Stadt",
+    "quote": "Tiefe schlägt Oberfläche.",
+    "image": "assets/day38.jpg"
+  },
+  {
+    "date": "2026-10-17",
+    "title": "Gletscherlandschaft",
+    "quote": "Nicht dein Umfeld macht den Unterschied, sondern deine Wahl.",
+    "image": "assets/day39.jpg"
+  },
+  {
+    "date": "2026-10-18",
+    "title": "Palmen im Abendlicht",
+    "quote": "Wer seinen Körper respektiert, kann ihn formen.",
+    "image": "assets/day40.jpg"
+  },
+  {
+    "date": "2026-10-19",
+    "title": "Sonnenaufgang über dem Meer",
+    "quote": "Haltung gewinnt gegen Haltungslosigkeit.",
+    "image": "assets/day41.jpg"
+  },
+  {
+    "date": "2026-10-20",
+    "title": "Felsformation im Ozean",
+    "quote": "Dein Kopf ist dein erstes Gym.",
+    "image": "assets/day42.jpg"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Alte Brücke",
+    "quote": "Klarer Kopf ist stärker als kurze Laune.",
+    "image": "assets/day43.jpg"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Tropischer Wasserfall",
+    "quote": "Wer seine Gedanken wählt, wählt sein Leben.",
+    "image": "assets/day44.jpg"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Gipfelkreuz im Morgenlicht",
+    "quote": "Nicht kurze Euphorie formt dich, sondern lange Disziplin.",
+    "image": "assets/day45.jpg"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Abendhimmel über Bergen",
+    "quote": "Respekt hält länger als Eitelkeit.",
+    "image": "assets/day46.jpg"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Weites Meer",
+    "quote": "Nicht Zweifel trägt dich, sondern Hingabe.",
+    "image": "assets/day47.jpg"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Sonnenuntergang im Canyon",
+    "quote": "Wer seine Standards hält, hält sich selbst.",
+    "image": "assets/day48.jpg"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Dschungelpfad",
+    "quote": "Konzentration ist leiser als Multitasking – und wirksamer.",
+    "image": "assets/day49.jpg"
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Goldener Strand bei Sonnenuntergang",
+    "quote": "Du bist nicht zu spät. Du bist im Aufbau.",
+    "image": "assets/day50.jpg"
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Sonnenuntergang am Palmenstrand",
+    "quote": "Schlafqualität schlägt späte Ausreden.",
+    "image": "assets/day01.jpg"
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Nebel über einem Berggipfel",
+    "quote": "Wer nicht wartet, beginnt.",
+    "image": "assets/day02.jpg"
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Skyline bei Sonnenaufgang",
+    "quote": "Nicht mehr Komplexität zählt, sondern mehr Klarheit.",
+    "image": "assets/day03.jpg"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "Endlose Wüstenlandschaft",
+    "quote": "Ruhige Schritte gewinnt gegen hektische Sprünge.",
+    "image": "assets/day04.jpg"
+  },
+  {
+    "date": "2026-11-02",
+    "title": "Ruhiger See im Morgengrauen",
+    "quote": "Nicht der Wille allein bringt dich nach vorn, sondern dein System.",
+    "image": "assets/day05.jpg"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Klippen am Meer",
+    "quote": "Wer mit Ruhe arbeitet, arbeitet präziser.",
+    "image": "assets/day06.jpg"
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Wald mit Lichtstrahlen",
+    "quote": "Saubere Basics ist stärker als komplizierte Abkürzungen.",
+    "image": "assets/day07.jpg"
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Moderne Stadt bei Nacht",
+    "quote": "Stabilität ist sexy. Chaos ist laut.",
+    "image": "assets/day08.jpg"
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Schneebedeckter Gipfel",
+    "quote": "Echte Stärke hält länger als laute Ansagen.",
+    "image": "assets/day09.jpg"
+  },
+  {
+    "date": "2026-11-07",
+    "title": "Tropischer Strand",
+    "quote": "Wer an der Basis feilt, wird sichtbar besser.",
+    "image": "assets/day10.jpg"
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Alpenpanorama",
+    "quote": "Nicht die Ausnahme macht den Unterschied, sondern die Regel.",
+    "image": "assets/day11.jpg"
+  },
+  {
+    "date": "2026-11-09",
+    "title": "Alte Kopfsteinpflaster-Gasse",
+    "quote": "Geduld ist leiser als Panik – und wirksamer.",
+    "image": "assets/day12.jpg"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Sonnenaufgang über Wolken",
+    "quote": "Nicht ein starker Start formt dich, sondern ein starkes Durchhalten.",
+    "image": "assets/day13.jpg"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "Felsiger Küstenweg",
+    "quote": "Wer das Richtige tut, auch ohne Applaus, baut echten Charakter.",
+    "image": "assets/day14.jpg"
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Weites Lavendelfeld",
+    "quote": "Energiehaushalt schlägt Selbstsabotage.",
+    "image": "assets/day15.jpg"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "Metropole von oben",
+    "quote": "Ein klarer Plan macht harte Tage leiser.",
+    "image": "assets/day16.jpg"
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Wasserfall im Dschungel",
+    "quote": "Regeneration gewinnt gegen Dauerstress.",
+    "image": "assets/day17.jpg"
+  },
+  {
+    "date": "2026-11-15",
+    "title": "Wellen brechen an Felsen",
+    "quote": "Wer seinen Fokus verteidigt, verteidigt sein Ziel.",
+    "image": "assets/day18.jpg"
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Sonnenuntergang in der Savanne",
+    "quote": "Nicht ein Top-Workout trägt dich, sondern eine Top-Woche.",
+    "image": "assets/day19.jpg"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Holzsteg ins Meer",
+    "quote": "Konsistenz ist stärker als Chaos-Tage.",
+    "image": "assets/day20.jpg"
+  },
+  {
+    "date": "2026-11-18",
+    "title": "Bergstraße mit Serpentinen",
+    "quote": "Nicht ein harter Tag zählt, sondern ein harter Standard.",
+    "image": "assets/day21.jpg"
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Wüsten-Sonnenuntergang",
+    "quote": "Wer im Zweifel den nächsten Schritt macht, gewinnt Klarheit.",
+    "image": "assets/day22.jpg"
+  },
+  {
+    "date": "2026-11-20",
+    "title": "Schneewald",
+    "quote": "Arbeit am Fundament hält länger als Suche nach Hacks.",
+    "image": "assets/day23.jpg"
+  },
+  {
+    "date": "2026-11-21",
+    "title": "Küstenleuchtturm",
+    "quote": "Regeneration ist Training mit Köpfchen.",
+    "image": "assets/day24.jpg"
+  },
+  {
+    "date": "2026-11-22",
+    "title": "See in den Bergen",
+    "quote": "Achtsamkeit ist leiser als Autopilot – und wirksamer.",
+    "image": "assets/day25.jpg"
+  },
+  {
+    "date": "2026-11-23",
+    "title": "Skyline im Regen",
+    "quote": "Wer Trainingspausen ernst nimmt, trainiert intelligent.",
+    "image": "assets/day26.jpg"
+  },
+  {
+    "date": "2026-11-24",
+    "title": "Sonnenaufgang im Gebirge",
+    "quote": "Nicht „später“ bringt dich nach vorn, sondern heute.",
+    "image": "assets/day27.jpg"
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Tropische Bucht",
+    "quote": "Disziplin schlägt Inspiration.",
+    "image": "assets/day28.jpg"
+  },
+  {
+    "date": "2026-11-26",
+    "title": "Endlose Straße",
+    "quote": "Nicht „wenn ich Zeit habe“ macht den Unterschied, sondern deine Priorität.",
+    "image": "assets/day29.jpg"
+  },
+  {
+    "date": "2026-11-27",
+    "title": "Goldene Felder",
+    "quote": "Wer Geduld hat, hat Länge.",
+    "image": "assets/day30.jpg"
+  },
+  {
+    "date": "2026-11-28",
+    "title": "Wolkenkratzer im Morgenlicht",
+    "quote": "Selbstführung gewinnt gegen Stimmungsschwankungen.",
+    "image": "assets/day31.jpg"
+  },
+  {
+    "date": "2026-11-29",
+    "title": "Steilküste",
+    "quote": "Wertschätzung ist stärker als Selbstkritik ohne Maß.",
+    "image": "assets/day32.jpg"
+  },
+  {
+    "date": "2026-11-30",
+    "title": "Wellen im Gegenlicht",
+    "quote": "Fokus hält länger als FOMO.",
+    "image": "assets/day33.jpg"
+  },
+  {
+    "date": "2026-12-01",
+    "title": "Alte Burg im Nebel",
+    "quote": "Wer mit sich ehrlich ist, kann sich verändern.",
+    "image": "assets/day34.jpg"
+  },
+  {
+    "date": "2026-12-02",
+    "title": "Wasseroberfläche im Sonnenlicht",
+    "quote": "Nicht „wenn ich Lust habe“ formt dich, sondern dein Versprechen an dich.",
+    "image": "assets/day35.jpg"
+  },
+  {
+    "date": "2026-12-03",
+    "title": "Weite Steppe",
+    "quote": "Planung ist leiser als Blindflug – und wirksamer.",
+    "image": "assets/day36.jpg"
+  },
+  {
+    "date": "2026-12-04",
+    "title": "Küstenstraße",
+    "quote": "Nicht die perfekte Diät trägt dich, sondern ein nachhaltiger Alltag.",
+    "image": "assets/day37.jpg"
+  },
+  {
+    "date": "2026-12-05",
+    "title": "Sonnenuntergang über der Stadt",
+    "quote": "Wer sich nicht rettet, sondern sich führt.",
+    "image": "assets/day38.jpg"
+  },
+  {
+    "date": "2026-12-06",
+    "title": "Gletscherlandschaft",
+    "quote": "Ritual schlägt Zufall.",
+    "image": "assets/day39.jpg"
+  },
+  {
+    "date": "2026-12-07",
+    "title": "Palmen im Abendlicht",
+    "quote": "Tägliche Schritte gewinnt gegen seltene Heldentaten.",
+    "image": "assets/day40.jpg"
+  },
+  {
+    "date": "2026-12-08",
+    "title": "Sonnenaufgang über dem Meer",
+    "quote": "Saubere Ernährung ist stärker als Ausreden.",
+    "image": "assets/day41.jpg"
+  },
+  {
+    "date": "2026-12-09",
+    "title": "Felsformation im Ozean",
+    "quote": "Wer sein Ziel klein herunterbricht, macht es unaufhaltbar.",
+    "image": "assets/day42.jpg"
+  },
+  {
+    "date": "2026-12-10",
+    "title": "Alte Brücke",
+    "quote": "Nicht ein extremes Programm zählt, sondern ein realistischer Rhythmus.",
+    "image": "assets/day43.jpg"
+  },
+  {
+    "date": "2026-12-11",
+    "title": "Tropischer Wasserfall",
+    "quote": "Ausdauer hält länger als Kurzschluss.",
+    "image": "assets/day44.jpg"
+  },
+  {
+    "date": "2026-12-12",
+    "title": "Gipfelkreuz im Morgenlicht",
+    "quote": "Nicht mehr Kontrolle im Außen bringt dich nach vorn, sondern mehr Kontrolle im Kopf.",
+    "image": "assets/day45.jpg"
+  },
+  {
+    "date": "2026-12-13",
+    "title": "Abendhimmel über Bergen",
+    "quote": "Wer die täglichen Schritte zählt, bekommt die großen Ergebnisse.",
+    "image": "assets/day46.jpg"
+  },
+  {
+    "date": "2026-12-14",
+    "title": "Weites Meer",
+    "quote": "Nicht alles oder nichts macht den Unterschied, sondern beständig und schlau.",
+    "image": "assets/day47.jpg"
+  },
+  {
+    "date": "2026-12-15",
+    "title": "Sonnenuntergang im Canyon",
+    "quote": "Nicht Dramatik formt dich, sondern Klarheit.",
+    "image": "assets/day48.jpg"
+  },
+  {
+    "date": "2026-12-16",
+    "title": "Dschungelpfad",
+    "quote": "Nicht FOMO trägt dich, sondern Fokus.",
+    "image": "assets/day49.jpg"
+  },
+  {
+    "date": "2026-12-17",
+    "title": "Goldener Strand bei Sonnenuntergang",
+    "quote": "Nicht Selbstbetrug zählt, sondern Ehrlichkeit.",
+    "image": "assets/day50.jpg"
+  },
+  {
+    "date": "2026-12-18",
+    "title": "Sonnenuntergang am Palmenstrand",
+    "quote": "Nicht Selbstsabotage bringt dich nach vorn, sondern Selbstführung.",
+    "image": "assets/day01.jpg"
+  },
+  {
+    "date": "2026-12-19",
+    "title": "Nebel über einem Berggipfel",
+    "quote": "Nicht mehr Training macht den Unterschied, sondern besseres Training.",
+    "image": "assets/day02.jpg"
+  },
+  {
+    "date": "2026-12-20",
+    "title": "Skyline bei Sonnenaufgang",
+    "quote": "Nicht mehr Disziplin formt dich, sondern weniger Ausreden.",
+    "image": "assets/day03.jpg"
+  },
+  {
+    "date": "2026-12-21",
+    "title": "Endlose Wüstenlandschaft",
+    "quote": "Nicht mehr Härte trägt dich, sondern mehr Geduld.",
+    "image": "assets/day04.jpg"
+  },
+  {
+    "date": "2026-12-22",
+    "title": "Ruhiger See im Morgengrauen",
+    "quote": "Nicht eine lange To-do-Liste zählt, sondern ein klarer nächster Schritt.",
+    "image": "assets/day05.jpg"
+  },
+  {
+    "date": "2026-12-23",
+    "title": "Klippen am Meer",
+    "quote": "Nicht „ich muss“ bringt dich nach vorn, sondern „ich entscheide“.",
+    "image": "assets/day06.jpg"
+  },
+  {
+    "date": "2026-12-24",
+    "title": "Wald mit Lichtstrahlen",
+    "quote": "Nicht der perfekte Körper macht den Unterschied, sondern ein starkes Leben.",
+    "image": "assets/day07.jpg"
+  },
+  {
+    "date": "2026-12-25",
+    "title": "Moderne Stadt bei Nacht",
+    "quote": "Nicht deine Vergangenheit formt dich, sondern dein nächster Schritt.",
+    "image": "assets/day08.jpg"
+  },
+  {
+    "date": "2026-12-26",
+    "title": "Schneebedeckter Gipfel",
+    "quote": "Nicht ein lauter Beweis trägt dich, sondern ein stilles Fundament.",
+    "image": "assets/day09.jpg"
+  },
+  {
+    "date": "2026-12-27",
+    "title": "Tropischer Strand",
+    "quote": "Nicht ein schnelles Ergebnis zählt, sondern ein echter Prozess.",
+    "image": "assets/day10.jpg"
+  },
+  {
+    "date": "2026-12-28",
+    "title": "Alpenpanorama",
+    "quote": "Nicht das Zielbild bringt dich nach vorn, sondern das tägliche Handwerk.",
+    "image": "assets/day11.jpg"
+  },
+  {
+    "date": "2026-12-29",
+    "title": "Alte Kopfsteinpflaster-Gasse",
+    "quote": "Nicht Warten macht den Unterschied, sondern Tun.",
+    "image": "assets/day12.jpg"
+  },
+  {
+    "date": "2026-12-30",
+    "title": "Sonnenaufgang über Wolken",
+    "quote": "Nicht Erklärung formt dich, sondern Wiederholung.",
+    "image": "assets/day13.jpg"
+  },
+  {
+    "date": "2026-12-31",
+    "title": "Felsiger Küstenweg",
+    "quote": "Nicht der Traum trägt dich, sondern die Arbeit.",
+    "image": "assets/day14.jpg"
+  }
+]
